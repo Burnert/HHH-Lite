@@ -1,0 +1,19 @@
+
+# Main dir
+
+.curseclient
+knownkeys.txt
+minecraftinstance.json
+options.txt
+patchouli_data.json
+reauth.toml
+usercache.json
+usernamecache.json
+
+# Folders
+
+crash-reports/
+logs/
+resourcepacks/
+saves/
+Xaero*/
