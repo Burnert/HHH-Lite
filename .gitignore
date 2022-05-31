@@ -17,3 +17,7 @@ logs/
 resourcepacks/
 saves/
 Xaero*/
+
+# Config
+
+config/spark/activity.json

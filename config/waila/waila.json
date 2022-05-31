@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
   "general": {
-    "displayTooltip": true,
+    "displayTooltip": false,
     "shiftForDetails": false,
     "displayMode": "TOGGLE",
     "hideFromPlayerList": true,
