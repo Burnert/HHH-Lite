@@ -1,7 +1,7 @@
 
 [advanced]
 	#Debug mode enabled
-	DebugMode = false
+	DebugMode = true
 	#Display search bar in the center
 	CenterSearch = false
 	#Set low-memory mode (makes search very slow, but uses less RAM)

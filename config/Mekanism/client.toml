@@ -67,8 +67,8 @@
 				y = 2147483647
 
 			[client.gui.window.confirmation]
-				x = 2147483647
-				y = 2147483647
+				x = 18
+				y = 90
 
 			[client.gui.window.crafting0]
 				x = 2147483647
@@ -103,8 +103,8 @@
 				y = 2147483647
 
 			[client.gui.window.upgrade]
-				x = 2147483647
-				y = 2147483647
+				x = 10
+				y = 15
 
 	#QIO Config
 	[client.qio]
