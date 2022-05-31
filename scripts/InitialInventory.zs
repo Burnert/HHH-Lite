@@ -1,7 +1,7 @@
 import mods.initialinventory.InvHandler;
 
-InvHandler.addStartingItem(<item:geolosys:field_manual>);
-InvHandler.addStartingItem(<item:immersiveengineering:tool:3>);
-InvHandler.addStartingItem(<item:industrialforegoing:book_manual>);
-InvHandler.addStartingItem(<item:patchouli:guide_book>.withTag({"patchouli:book": "alchemistry:alchemistry_book"}));
-InvHandler.addStartingItem(<item:patchouli:guide_book>.withTag({"patchouli:book": "twilightforest:guide"}));
+InvHandler.addStartingItem("books1", <item:immersiveengineering:manual>);
+InvHandler.addStartingItem("books1", <item:botania:lexicon>);
+InvHandler.addStartingItem("books1", <item:tconstruct:encyclopedia>.withTag({mantle: {book: {current_page: "" as string}}}));
+InvHandler.addStartingItem("books1", <item:patchouli:guide_book>.withTag({"patchouli:book": "industrialforegoing:industrial_foregoing" as string}));
+InvHandler.addStartingItem("books1", <item:patchouli:guide_book>.withTag({"patchouli:book": "alchemistry:alchemistry_book" as string}));
