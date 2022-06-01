@@ -12,5 +12,3 @@ Installation steps:
 2. Copy the [HHHLClone.py](util/HHHLClone.py) script to the instance directory (curseforge/minecraft/Instances/\<ProfileName\>).
 3. Run the script.
 4. After the cloning finishes, run the game.
-
-Use the  in the installation process
