@@ -5,21 +5,21 @@
 	#Energy Cubes
 	[tier.energy_cubes]
 		#Maximum number of Joules Basic energy cubes can store.
-		basicStorage = "4000000"
+		basicStorage = "1000000"
 		#Output rate in Joules of Basic energy cubes.
-		basicOutput = "4000"
+		basicOutput = "2000"
 		#Maximum number of Joules Advanced energy cubes can store.
-		advancedStorage = "16000000"
+		advancedStorage = "4000000"
 		#Output rate in Joules of Advanced energy cubes.
-		advancedOutput = "16000"
+		advancedOutput = "8000"
 		#Maximum number of Joules Elite energy cubes can store.
-		eliteStorage = "64000000"
+		eliteStorage = "16000000"
 		#Output rate in Joules of Elite energy cubes.
-		eliteOutput = "64000"
+		eliteOutput = "32000"
 		#Maximum number of Joules Ultimate energy cubes can store.
-		ultimateStorage = "256000000"
+		ultimateStorage = "64000000"
 		#Output rate in Joules of Ultimate energy cubes.
-		ultimateOutput = "256000"
+		ultimateOutput = "128000"
 		#Maximum number of Joules Creative energy cubes can store.
 		creativeStorage = "18446744073709551615.9999"
 		#Output rate in Joules of Creative energy cubes.
@@ -112,21 +112,21 @@
 	#Induction
 	[tier.induction]
 		#Maximum number of Joules Basic induction cells can store.
-		basicStorage = "8000000000"
+		basicStorage = "1000000000"
 		#Maximum number of Joules Advanced induction cells can store.
-		advancedStorage = "64000000000"
+		advancedStorage = "8000000000"
 		#Maximum number of Joules Elite induction cells can store.
-		eliteStorage = "512000000000"
+		eliteStorage = "64000000000"
 		#Maximum number of Joules Ultimate induction cells can store.
-		ultimateStorage = "4000000000000"
+		ultimateStorage = "500000000000"
 		#Maximum number of Joules Basic induction providers can output or accept.
-		basicOutput = "256000"
+		basicOutput = "64000"
 		#Maximum number of Joules Advanced induction providers can output or accept.
-		advancedOutput = "2048000"
+		advancedOutput = "512000"
 		#Maximum number of Joules Elite induction providers can output or accept.
-		eliteOutput = "16384000"
+		eliteOutput = "4096000"
 		#Maximum number of Joules Ultimate induction providers can output or accept.
-		ultimateOutput = "131072000"
+		ultimateOutput = "32768000"
 
 	#Transmitters
 	[tier.transmitters]
@@ -134,13 +134,13 @@
 		#Universal Cables
 		[tier.transmitters.energy]
 			#Internal buffer in Joules of each Basic universal cable.
-			basicCapacity = "8000"
+			basicCapacity = "1000"
 			#Internal buffer in Joules of each Advanced universal cable.
-			advancedCapacity = "128000"
+			advancedCapacity = "16000"
 			#Internal buffer in Joules of each Elite universal cable.
-			eliteCapacity = "1024000"
+			eliteCapacity = "128000"
 			#Internal buffer in Joules of each Ultimate universal cable.
-			ultimateCapacity = "8192000"
+			ultimateCapacity = "1024000"
 
 		#Mechanical Pipes
 		[tier.transmitters.fluid]
