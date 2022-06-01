@@ -1,3 +1,8 @@
+# general.toml
+
+- sourceDecayRate = 0.9995  -> 0.9999
+- targetDecayRate = 0.9995  -> 0.9999
+
 # generators.toml
 
 - bioGeneration = "350"
