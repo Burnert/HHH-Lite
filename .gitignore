@@ -22,3 +22,7 @@ Xaero*/
 
 config/spark/activity.json
 config/jei/bookmarks.ini
+
+# Online Picture Frame cache
+
+opf_cache/
