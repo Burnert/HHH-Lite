@@ -6,7 +6,7 @@
       "minY": 4,
       "maxY": 32,
       "maxVeinSize": 1,
-      "spawnRate": 5.0,
+      "spawnRate": 4.0,
       "biomeBlacklist": [],
       "biomeWhitelist": [
         "MOUNTAIN"
