@@ -3,10 +3,10 @@
     {
       "ore": "minecraft:iron_ore",
       "filler": "minecraft:stone",
-      "minY": 1,
+      "minY": 24,
       "maxY": 64,
-      "maxVeinSize": 8,
-      "spawnRate": 10.0,
+      "maxVeinSize": 6,
+      "spawnRate": 6.0,
       "biomeBlacklist": [],
       "biomeWhitelist": []
     }
