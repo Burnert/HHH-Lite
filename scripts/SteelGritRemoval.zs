@@ -1,0 +1,1 @@
+<recipetype:mekanism:metallurgic_infusing>.removeByRegex(".*enriched_iron_to_dust*.");
